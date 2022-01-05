@@ -1,0 +1,28 @@
+- git:
+    local-name: image_common/camera_calibration_parsers
+    uri: https://github.com/ros2-gbp/image_common-release.git
+    version: rpm/ros-galactic-camera-calibration-parsers-2.3.0-3_8
+- git:
+    local-name: image_common/camera_info_manager
+    uri: https://github.com/ros2-gbp/image_common-release.git
+    version: rpm/ros-galactic-camera-info-manager-2.3.0-3_8
+- git:
+    local-name: image_common/image_common
+    uri: https://github.com/ros2-gbp/image_common-release.git
+    version: rpm/ros-galactic-image-common-2.3.0-3_8
+- git:
+    local-name: image_common/image_transport
+    uri: https://github.com/ros2-gbp/image_common-release.git
+    version: rpm/ros-galactic-image-transport-2.3.0-3_8
+- git:
+    local-name: image_geometry
+    uri: https://github.com/ros2-gbp/vision_opencv-release.git
+    version: rpm/ros-galactic-image-geometry-2.2.1-2_8
+- git:
+    local-name: image_pipeline
+    uri: https://github.com/ros-perception/image_pipeline.git
+    version: ros2
+- git:
+    local-name: smart_home/sh_scc
+    uri: https://github.com/rnvandemark/sh_scc.git
+    version: master
